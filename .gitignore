@@ -1,0 +1,18 @@
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+*env/
+.env
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore personal health data
+apple_health_export/
