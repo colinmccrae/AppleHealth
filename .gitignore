@@ -16,3 +16,7 @@ Thumbs.db
 
 # Ignore personal health data
 apple_health_export/
+
+# Ignore extracted and plotted personal health data
+data/
+outputs/
